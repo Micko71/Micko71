@@ -1,6 +1,5 @@
-- Hi, my name is Michael.
-- I’m currently in the final stages of a Data Science Masters degree.
-- I’m very interested in opportunities to apply and improve my skills through participation in projects.
+Hi, my name is Michael.
+I’m currently in the final stages of a Data Science Masters degree, and very interested in opportunities to apply and improve my skills through participation in projects.
 
 <!---
 Micko71/Micko71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
